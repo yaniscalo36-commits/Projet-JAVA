@@ -1,4 +1,5 @@
 Simulateur de Lancement Spatial (Java)
+Lancement : clique droit sur Main.Java et run debug 
  Description
 
 Ce projet est un simulateur de lancement de fusée en Java réalisé dans le cadre d’un projet de programmation.
@@ -119,5 +120,7 @@ Correction de bugs
 Amélioration du code que se soit plus jolie à lire, mais le code n'est pas changé
 
 Ce projet a été réalisé dans le cadre d'un projet de B1 fin d'année.
+
+repo github : https://github.com/yaniscalo36-commits/Projet-JAVA.git
 
 Merci de votre attention !
